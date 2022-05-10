@@ -789,6 +789,10 @@ aside .card img {
         width: 100%;
     }
 
+    .searchFilters {
+        width: 100%; 
+    }
+
     .hostingMain {
         background: none;
         order: 2;
