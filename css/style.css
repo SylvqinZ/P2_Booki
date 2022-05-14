@@ -830,9 +830,10 @@ aside .card img {
         width: 100%;
     }
 
-    aside .cardText {
-        margin-left: 16px;
+    aside .cardImg {
+        min-width: 38%;
     }
+
     .activities-columns {
         flex-direction: column;
         width: 100%;
@@ -904,6 +905,10 @@ aside .card img {
 
     .footerText {
         flex-direction: column;
+    }
+
+    .footerText h3 {
+        margin-bottom: 10px; 
     }
 
     .footerText > div {
